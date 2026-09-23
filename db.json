@@ -1,0 +1,315 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "alice",
+        "profile_pic": "/Feedimg/user1.avif"
+      },
+      "image": "/Feedimg/post11.avif",
+      "caption": "Beautiful  🌅 #Nature",
+      "likes": 1284,
+      "comments": [
+        {
+          "user": "jack",
+          "comment": "Wow! Amazing shot 😍",
+          "profile_pic": "/Feedimg/user6.avif"
+        },
+        {
+          "user": "mark92",
+          "comment": "Where is this place?",
+          "profile_pic": "/Feedimg/user5.avif"
+        }
+      ],
+      "timestamp": "2026-07-20T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "jack",
+        "profile_pic": "/Feedimg/user2.avif"
+      },
+      "image": "/Feedimg/post12.avif",
+      "caption": "Coffee + Coding ☕💻",
+      "likes": 947,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "Perfect combo ❤️",
+          "profile_pic": "/Feedimg/user4.avif"
+        },
+        {
+          "user": "kevin",
+          "comment": "Need this setup!",
+          "profile_pic": "/Feedimg/user5.avif"
+        }
+      ],
+      "timestamp": "2026-07-19T09:20:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "travelwithsam",
+        "profile_pic": "/Feedimg/user3.webp"
+      },
+      "image": "/Feedimg/post13.avif",
+      "caption": "Lost in the mountains 🏔️",
+      "likes": 2345,
+      "comments": [
+        {
+          "user": "emma_wat",
+          "comment": "Looks peaceful ❤️",
+          "profile_pic": "/Feedimg/user1.avif"
+        },
+        {
+          "user": "alex",
+          "comment": "Adding this to my bucket list!",
+          "profile_pic": "/Feedimg/user6.avif"
+        }
+      ],
+      "timestamp": "2026-07-18T14:15:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "Emma",
+        "profile_pic": "/Feedimg/user4.avif"
+      },
+      "image": "/Feedimg/post14.avif",
+      "caption": "Pizza Night 🍕😋",
+      "likes": 1842,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "Save me a slice 😂",
+          "profile_pic": "/Feedimg/user2.avif"
+        },
+        {
+          "user": "alice",
+          "comment": "Looks delicious!",
+          "profile_pic": "/Feedimg/user4.avif"
+        }
+      ],
+      "timestamp": "2026-07-17T19:45:00Z"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "john_doe",
+        "profile_pic": "/Feedimg/user5.avif"
+      },
+      "image": "/Feedimg/post15.avif",
+      "caption": "Gym Time 💪",
+      "likes": 1568,
+      "comments": [
+        {
+          "user": "kevin",
+          "comment": "Let's go 🔥",
+          "profile_pic": "/Feedimg/user5.avif"
+        },
+        {
+          "user": "emma_wat",
+          "comment": "Great motivation!",
+          "profile_pic": "/Feedimg/user6.avif"
+        }
+      ],
+      "timestamp": "2026-07-16T07:50:00Z"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 106,
+        "username": "emma_wat",
+        "profile_pic": "/Feedimg/user6.avif"
+      },
+      "image": "/Feedimg/post16.avif",
+      "caption": "Weekend vibes 🌴☀️",
+      "likes": 2765,
+      "comments": [
+        {
+          "user": "alex",
+          "comment": "Enjoy!! 😍",
+          "profile_pic": "/Feedimg/user1.avif"
+        },
+        {
+          "user": "john_doe",
+          "comment": "Looks awesome!",
+          "profile_pic": "/Feedimg/user2.avif"
+        }
+      ],
+      "timestamp": "2026-07-15T12:10:00Z"
+    }
+    
+  ],
+  "profile": {
+    "id": 101,
+    "username": [
+      "Shana"
+    ],
+    "profile_pic": "/Feedimg/pro_su.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "alice",
+      "profile_pic": "/Feedimg/user1.avif"
+    },
+    {
+      "id": "102",
+      "username": "jack",
+      "profile_pic": "/Feedimg/user2.avif"
+    },
+    {
+      "id": "103",
+      "username": "travelwithsam",
+      "profile_pic": "/Feedimg/user3.webp"
+    },
+    {
+      "id": "104",
+      "username": "Emma",
+      "profile_pic": "/Feedimg/user4.avif"
+    },
+    {
+      "id": "105",
+      "username": "john_doe",
+      "profile_pic": "/Feedimg/user5.avif"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "alice_me",
+        "profile_pic": " /Feedimg/s1.avif",
+        "time": "1h"
+      },
+      "image": "/Feedimg/post1.avif"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "jackson",
+        "profile_pic": "/Feedimg/s2.avif",
+        "time": "10h"
+      },
+      "image": "/Feedimg/post2.avif"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "samsung",
+        "profile_pic": "/Feedimg/s3.avif",
+        "time": "1w"
+      },
+      "image": "/Feedimg/post3.avif"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "Emmawatson",
+        "profile_pic": "/Feedimg/s4.avif",
+        "time": "20h"
+      },
+      "image": "/Feedimg/post14.avif"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "john_doe",
+        "profile_pic": "/Feedimg/s5.avif",
+        "time": "34min"
+      },
+      "image": "/Feedimg/post15.avif"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 106,
+        "username": "emma_wat",
+        "profile_pic": "/Feedimg/s6.avif",
+        "time": "54min"
+      },
+      "image": "/Feedimg/post16.avif"
+    }
+  ],
+  "followers": [
+    {
+      "id": "S_tbhHp2jpQ",
+      "username": "jack"
+    },
+    {
+      "id": "Nepjn1h5oWY",
+      "username": "travelwithsam"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "1",
+      "section": "Today",
+      "username": "john_doe",
+      "profile": "/Feedimg/s6.avif",
+      "message": "liked your photo.",
+      "time": "2m",
+      "type": "like",
+      "post": "/Feedimg/post3.avif"
+    },
+    {
+      "id": "2",
+      "section": "Today",
+      "username": "emma",
+      "profile": "/Feedimg/s1.avif",
+      "message": "started following you.",
+      "time": "8m",
+      "type": "follow"
+    },
+    {
+      "id": "3",
+      "section": "This Week",
+      "username": "alex",
+      "profile": "/Feedimg/s4.avif",
+      "message": "commented: Nice picture ❤️",
+      "time": "1d",
+      "type": "comment",
+      "post": "/Feedimg/post1.avif"
+    },
+    {
+      "id": "4",
+      "section": "This Week",
+      "username": "sophia",
+      "profile": "/Feedimg/s3.avif",
+      "message": "mentioned you in a story.",
+      "time": "2d",
+      "type": "mention"
+    },
+    {
+      "id": "5",
+      "section": "Earlier",
+      "username": "david",
+      "profile": "/Feedimg/s2.avif",
+      "message": "liked your reel.",
+      "time": "5d",
+      "type": "like",
+      "post": "/Feedimg/post2.avif"
+    },
+    {
+      "id": "6",
+      "section": "Earlier",
+      "username": "olivia",
+      "profile": "/Feedimg/s5.avif",
+      "message": "started following you.",
+      "time": "1w",
+      "type": "follow"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
